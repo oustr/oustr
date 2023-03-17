@@ -1,20 +1,32 @@
 ## - oustr -
 
-An undergraduate student who's exploring Front-end development. Welcome to my site <a href="https://oustr.github.io/">oustr.github.io</a> powered by React and discover these features:
+An undergraduate student who's exploring Front-end development.
+
+Welcome to my site <a href="https://oustr.github.io/">oustr.github.io</a> powered by React and discover these features:
 
 <h3>Intertext (mobile)</h3>
 
-<div>
-    <img src="images/oustr_mobile.png" width="48%" />
-    <img src="images/intertext_01.png" width="48%" />
-    <img src="images/intertext_02.png" width="48%" />
-    <img src="images/intertext_03.png" width="48%" />
+<div align="center">
+    <div>
+        <img src="images/oustr_mobile.png" style="width: 28%; margin: 2px;"/>
+        <img src="images/intertext_01.png" style="width: 28%; margin: 2px;"/>
+    </div>
+    <div>
+        <img src="images/intertext_02.png" style="width: 28%; margin: 2px;"/>
+        <img src="images/intertext_03.png" style="width: 28%; margin: 2px;"/>
+    </div>
 </div>
 
 <h3>Wikipedia tool (desktop)</h3>
 
+<div align="center">
+    <div>
+        <img src="images/oustr_desktop.png" style="width: 56%; margin: 2px;"/>
+    </div>
+    <div>
+        <img src="images/wikipedia_tool_01.png" style="width: 56%; margin: 2px;"/>
+    </div>
 <div>
-    <img src="images/oustr_desktop.png" width="96%" />
-    <img src="images/wikipedia_tool_01.png" width="96%" />
-    <img src="images/wikipedia_tool_02.png" width="96%" />
+        <img src="images/wikipedia_tool_02.png" style="width: 56%; margin: 2px;"/>
+    </div>
 </div>
