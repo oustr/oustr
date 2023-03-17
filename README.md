@@ -8,12 +8,12 @@ Welcome to my site <a href="https://oustr.github.io/">oustr.github.io</a> and di
 
 <div align="center">
     <div>
-        <img src="images/oustr_mobile.png" style="width: 28%; margin: 2px;"/>
-        <img src="images/intertext_01.png" style="width: 28%; margin: 2px;"/>
+        <img src="images/oustr_mobile.png" style="width: 28%;"/>
+        <img src="images/intertext_01.png" style="width: 28%;"/>
     </div>
     <div>
-        <img src="images/intertext_02.png" style="width: 28%; margin: 2px;"/>
-        <img src="images/intertext_03.png" style="width: 28%; margin: 2px;"/>
+        <img src="images/intertext_02.png" style="width: 28%;"/>
+        <img src="images/intertext_03.png" style="width: 28%;"/>
     </div>
 </div>
 
@@ -21,12 +21,12 @@ Welcome to my site <a href="https://oustr.github.io/">oustr.github.io</a> and di
 
 <div align="center">
     <div>
-        <img src="images/oustr_desktop.png" style="width: 56%; margin: 2px;"/>
+        <img src="images/oustr_desktop.png" style="width: 56%;"/>
     </div>
     <div>
-        <img src="images/wikipedia_tool_01.png" style="width: 56%; margin: 2px;"/>
+        <img src="images/wikipedia_tool_01.png" style="width: 56%;"/>
     </div>
 <div>
-        <img src="images/wikipedia_tool_02.png" style="width: 56%; margin: 2px;"/>
+        <img src="images/wikipedia_tool_02.png" style="width: 56%;"/>
     </div>
 </div>
